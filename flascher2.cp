@@ -1,3 +1,7 @@
+/*
+ project  of :Traffic light 
+
+*/
 #line 1 "C:/Users/ok/Desktop/Embeded system/day1/video2/code/flascher2.c"
 int count=0,left=0,right=0,flag=0,flag2=0;
 static int flag1=0;
